@@ -35,5 +35,8 @@ document.body.removeChild(div2);
 
 //document.getElementsByTagName('DIV')[0].appendChild(ele);
 
+
+
+
 console.log(ele);
 console.log([ele]);
