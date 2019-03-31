@@ -1,6 +1,3 @@
-/**
- * Created by COMPUTER POINT on 3/24/2019.
- */
 function listing() {
 
     var input = document.getElementById("in").value;
